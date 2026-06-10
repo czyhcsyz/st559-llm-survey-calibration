@@ -1,0 +1,5 @@
+sigma_prior,sigma_delta_mean,sigma_delta_low,sigma_delta_high,christians_delta_mean,christians_delta_low,christians_delta_high
+"HalfNormal(0,5)",1.502,0.015,4.127,-0.368,-4.422,2.496
+"HalfNormal(0,10)",1.589,0.019,4.414,-0.419,-4.596,2.511
+"HalfNormal(0,20)",1.614,0.02,4.501,-0.433,-4.644,2.515
+"Half-t(3,0,10)",1.58,0.019,4.386,-0.413,-4.578,2.509

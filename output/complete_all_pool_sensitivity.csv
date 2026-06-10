@@ -1,0 +1,3 @@
+sample,n_total,n_college,n_noncollege,human_gap,llm_gap,correction_delta,difference_from_christians_complete_case_human_gap,difference_from_christians_complete_case_llm_gap,difference_from_christians_complete_case_correction
+christians_complete_case,6357,3247,3110,-3.7164,-0.1554,-3.5611,0.0,0.0,0.0
+complete_all_11_items,3455,1796,1659,-3.1962,0.1925,-3.3887,0.5202,0.3478,0.1724

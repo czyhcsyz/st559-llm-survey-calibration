@@ -1,0 +1,4 @@
+role,rep,target_delta_hat,reference_value,distance
+demo_cautionary,1,2.2552762444899206,,
+nearest_median_delta,11,-3.2968378918227694,-3.2288,0.0681
+nearest_full_correction,40,-3.596206330450634,-3.5611,0.0351

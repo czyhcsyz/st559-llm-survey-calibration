@@ -1,0 +1,12 @@
+item,human_nonmissing,college_paired_n,noncollege_paired_n,human_gap_college_minus_noncollege,llm_gap_all_college_minus_noncollege,llm_gap_anchor_college_minus_noncollege,correction_delta_hat,se_delta_hat,abs_correction,mean_abs_individual_discrepancy,candidate_role
+Asian Americans,4487,2224,2263,5.03,3.31,3.194,1.836,0.572,1.836,16.222,
+Black Americans,6876,3456,3420,3.364,3.406,3.508,-0.144,0.483,0.144,16.36,
+Christians,6357,3247,3110,-3.716,-0.185,-0.155,-3.561,0.558,3.561,18.439,tentative_main
+Conservatives,7031,3524,3507,-8.465,-5.914,-6.017,-2.448,0.487,2.448,16.173,sensitivity
+Democratic Party,7468,3706,3762,5.664,8.399,8.437,-2.774,0.47,2.774,17.145,sensitivity
+Gays and Lesbians,7008,3512,3496,8.837,6.779,6.875,1.962,0.596,1.962,19.238,contrast
+Jews,6988,3508,3480,4.301,2.765,2.754,1.547,0.482,1.547,17.25,
+Liberals,7031,3531,3500,8.541,8.654,8.93,-0.389,0.503,0.389,16.555,
+Muslims,6828,3421,3407,7.901,6.273,6.514,1.387,0.556,1.387,19.152,
+Republican Party,7454,3696,3758,-11.078,-6.437,-6.484,-4.594,0.471,4.594,17.165,sensitivity
+White Americans,6860,3450,3410,0.378,0.177,0.145,0.234,0.484,0.234,17.333,

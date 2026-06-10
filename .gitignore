@@ -1,0 +1,17 @@
+ANES_LLM_combined.rds
+*.RData
+*.Rhistory
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+*.zip
+*.bin
+*.exe
+report_compile_check/
+_ppt_diagnostic_media/
+_reference_ppt_media/
+v7_previews/
+figs_ggplot/*.tmp

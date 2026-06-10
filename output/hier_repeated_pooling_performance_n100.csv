@@ -1,0 +1,4 @@
+method,n_reps,mean_estimate,bias,rmse,mean_interval_width,empirical_coverage,wrong_sign_probability,benchmark
+complete_pooling,50,-0.4025,3.3139,3.6712,3.4609,0.16,0.42,-3.7164
+no_pooling,50,-3.2698,0.4466,2.868,12.1018,0.96,0.16,-3.7164
+partial_pooling,50,-1.6718,2.0446,2.6925,8.1172,0.86,0.16,-3.7164
